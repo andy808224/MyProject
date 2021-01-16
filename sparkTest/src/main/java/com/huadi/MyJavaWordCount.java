@@ -10,6 +10,10 @@ import org.apache.spark.api.java.function.PairFunction;
 import scala.Tuple2;
 
 import java.util.Arrays;
+
+/***
+ * github 提交测试
+ */
 public class MyJavaWordCount {
     public static void main(String[] args) {
         //参数检查
